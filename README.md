@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
--Sophomore at Chaminade University of Honolulu
--Data Science Major
+# - Sophomore at Chaminade University of Honolulu
+# - Data Science Major
 -->

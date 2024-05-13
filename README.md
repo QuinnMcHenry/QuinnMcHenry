@@ -1,8 +1,8 @@
 # Hello!
 ## About me <br>
-> Senior Computer Science Major
-> Minor in Data Science
-> Born in Alaska 🏔️
+> Senior Computer Science Major <br>
+> Minor in Data Science <br>
+> Born in Alaska 🏔️ <br>
 ### Languages <br>
 `Python` `R` `JS/CSS` <br>
 ### Projects

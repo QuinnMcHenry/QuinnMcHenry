@@ -1,4 +1,4 @@
-# Hello! 😎
+# Hello! 
 ## About me <br>
 - Chaminade University 🐚🌴
 - Senior Computer Science Major <br>

@@ -1,5 +1,5 @@
 # Hello! 
-## quinn.mchenry@student.chaminade.edu | 907-750-7751 <br>
+### CONTACT: quinn.mchenry@student.chaminade.edu | 907-750-7751 <br>
 - Chaminade University 🐚🌴
 - Senior Computer Science Major <br>
 - Minor in Data Science <br>

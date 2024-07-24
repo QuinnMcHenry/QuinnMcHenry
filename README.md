@@ -13,8 +13,8 @@ Below are some of the projects I have contributed to through the D4DSDG/CIFAL pr
 
 [Explore the repository here!](https://github.com/NSF-ALL-SPICE-Alliance/CIFAL-Honolulu-ROI-SIDS)<br><br>
 
-<b>Interactive map for recruitment purposes developed for the 9th MSC Pacific Command located in Honolulu; made using Python.</b><br>
-![usarpac gif](https://github.com/user-attachments/assets/42412dd0-a440-402b-af2d-dd4109ca4c14)<br><br>
+<b>Interactive map for recruitment purposes developed for the 9th MSC Pacific Command located in Honolulu; made using Python.</b><br><br>
+![usarpac gif](https://github.com/user-attachments/assets/42412dd0-a440-402b-af2d-dd4109ca4c14)
 [Explore the repository here!](https://github.com/QuinnMcHenry/USARPAC_Map)<br><br>
 
 

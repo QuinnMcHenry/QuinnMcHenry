@@ -5,7 +5,7 @@
 - Minor in Data Science <br>
 - Born in Alaska 🏔️ <br>
 ### Languages <br>
-`Python` `R` `JS/CSS` `Java` <br>
+`Python` `R` `Javascript` `Java` `HTML/CSS` <br>
 ### Projects
 Below are some of the projects I have contributed to through the D4DSDG/CIFAL program:<br><br>
 <b>Budgetary analysis of UN Aid distribution to Small Island Developing States in the Atlantic, Pacific, and South China Sea regions.</b><br><br>

@@ -8,7 +8,7 @@
 ### Projects
 GIS website [here](fireaq.alaska.edu)
 
-
+![ss](https://github.com/QuinnMcHenry/FireAQ-Website/blob/25ee8233dea27934ff886141afc71afd3e26d9ba/site_screenshot.png)
 [Explore the repository here!](https://github.com/QuinnMcHenry/FireAQ-Website)
 
 Below are some of the projects I have contributed to through the D4DSDG/CIFAL program:<br><br>

@@ -6,7 +6,7 @@
 ### Tools
 `ArcGIS` `Linux` `MySQL` `HTML/CSS`
 ### Projects
-GIS website [here](fireaq.alaska.edu)
+## GIS website [here](fireaq.alaska.edu)
 
 ![ss](https://github.com/QuinnMcHenry/FireAQ-Website/blob/25ee8233dea27934ff886141afc71afd3e26d9ba/site_screenshot.png)
 [Explore the repository here!](https://github.com/QuinnMcHenry/FireAQ-Website)

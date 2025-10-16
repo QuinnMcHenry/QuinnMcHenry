@@ -1,5 +1,5 @@
 ### CONTACT: qdmchenry@alaska.edu | 907-750-7751 <br>
-## View my resume [here](Resume-3.pdf)
+## View my resume [here](Resume-2.pdf)
 - B.S. in Computer Science, Chaminade University, 2025
 - Currently working as a Scientific Programmer at the Geographic Information Network of Alaska.
 ### Languages <br>

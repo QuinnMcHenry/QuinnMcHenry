@@ -5,7 +5,7 @@
 ### Languages <br>
 `Python` `BASH` `R` `Javascript`  <br>
 ### Tools/Frameworks
-`ArcGIS` `Linux` `MySQL` `HTML/CSS` `React` <br>
+`ArcGIS` `Linux` `MySQL` `HTML/CSS` `React Native/Expo` <br>
 ### Projects
 
 # Currently maintaining the GINA Smoke Forecast: http://fireaq.alaska.edu <br>

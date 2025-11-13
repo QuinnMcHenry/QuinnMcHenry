@@ -8,7 +8,7 @@
 `ArcGIS` `Linux` `MySQL` `HTML/CSS` `React Native/Expo` <br>
 ### Projects
 
-# Currently maintaining the GINA Smoke Forecast: http://fireaq.alaska.edu <br>
+# Currently maintaining the GINA Smoke Forecast: https://fireaq.alaska.edu <br>
 
 [Explore the repository here!](https://github.com/QuinnMcHenry/FireAQ-Website)
 

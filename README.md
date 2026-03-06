@@ -1,6 +1,8 @@
-### CONTACT: qdmchenry@alaska.edu | 907-750-7751 <br>
-- B.S. in Computer Science, Chaminade University, 2025
+### qdmchenry@alaska.edu | 907-750-7751 <br>
+- B.S. in Computer Science, Chaminade University, 2022-2025
+- M.S. in Computer Sceince, University of Alaska Fairbanks, 2026-...
 - Currently working as a Scientific Programmer at the Geographic Information Network of Alaska.
+
 ### Languages <br>
 `C` `Python` `Javascript`  <br>
 ### Tools/Frameworks
@@ -8,6 +10,7 @@
 ### Projects
 
 # Currently maintaining the GINA Smoke Forecast: https://fireaq.alaska.edu <br>
+
 
 [Explore the repository here!](https://github.com/QuinnMcHenry/FireAQ-Website)
 

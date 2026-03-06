@@ -1,11 +1,10 @@
 ### CONTACT: qdmchenry@alaska.edu | 907-750-7751 <br>
-## View my resume [here](Resume-2.pdf)
 - B.S. in Computer Science, Chaminade University, 2025
 - Currently working as a Scientific Programmer at the Geographic Information Network of Alaska.
 ### Languages <br>
-`Python` `BASH` `R` `Javascript`  <br>
+`C` `Python` `Javascript`  <br>
 ### Tools/Frameworks
-`ArcGIS` `Linux` `MySQL` `HTML/CSS` `React Native/Expo` <br>
+`ArcGIS` `Linux` `MySQL` `RISC-V` <br>
 ### Projects
 
 # Currently maintaining the GINA Smoke Forecast: https://fireaq.alaska.edu <br>
